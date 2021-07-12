@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = geggins@gmail.com
+	name = George Eggins
